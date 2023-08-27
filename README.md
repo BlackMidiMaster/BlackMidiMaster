@@ -1,0 +1,6 @@
+-  Hi, I’m @BlackMidiMaster
+-  My Discord Is BlackMidiMaster#2164
+-  I’m interested in JavaScripting
+-  I’m currently learning CSS and Python
+-  I’m looking to collaborate on Js hacks on MPPclone.com
+-  How to reach me BlackMidiaster@Gmail.com
